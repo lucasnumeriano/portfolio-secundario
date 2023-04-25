@@ -1,0 +1,63 @@
+#links {
+    height: 348px;
+    width: 348px;
+}
+
+.ulinks-list {
+    list-style: none;
+    padding: 30px 0 0 0;
+    margin-left: 10%;
+}
+
+.componet-ulinks-lists {
+    margin-bottom: 10%;
+    box-sizing: border-box;
+}
+
+.componet-ulinks-lists a {
+    margin-top: 6%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.componet-ulinks-lists a img {
+    padding-right: 10px;
+}
+
+#technology {
+    height: 208px;
+    width: 348px;
+}
+
+.technology-element {
+    align-items: center;
+    background-color: #CB92B1;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #000000;
+    display: flex;
+    font: normal 700 10px 'Merriweather Sans', sans-serif;
+    height: 24px;
+    justify-content: center;
+    width: 86px;
+}
+
+.group-for-tec {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+#experiences {
+    height: 349px;
+    width: 348px;
+}
+
+#education {
+    height: 532px;
+    width: 348px;
+}
+
