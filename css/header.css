@@ -39,6 +39,48 @@ header {
     width: 70%;
 }
 
+#project-one {
+    background-color: #302F3D;
+    border-radius: 20px;
+    position: absolute;
+    width: 500px;
+    height: 186px;
+    left: 425px;
+    top: 157px;
+}
+
+#project-two {
+    background-color: #302F3D;
+    border-radius: 20px;
+    position: absolute;
+    width: 500px;
+    height: 186px;
+    left: 980px;
+    top: 157px;
+}
+
+.project-estilization {
+    display: flex;
+    margin: 2em 0 0 2em;
+}
+
+.project-estilization img {
+    padding-right: 15px;
+}
+
+.title-project {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.description-projects {
+    margin-left: 2.5em;
+}
+
+.favorit-icon {
+    margin: 2em;
+}
+
 @media screen and (max-width: 450px){
     header {
         flex-direction: column;
