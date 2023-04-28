@@ -1,2 +1,2 @@
 # portfolio
- Portfolio simples com apenas hrml e css
+ Portfolio simples com apenas html e css
